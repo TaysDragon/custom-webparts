@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "cc3ff58a-edf7-44ba-a47c-7daa593e1b93",
+  "alias": "MyTimeAwayWebPart",
+  "componentType": "WebPart",
+  "version": "1.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "cc3ff58a-edf7-44ba-a47c-7daa593e1b93",
+    "group": { "default": "Communication and collaboration" },
+    "title": { "default": "Your Time Away" },
+    "description": { "default": "Provides a simple way for a user to enter and list their time away." },
+    "officeFabricIconFontName": "Sunny",
+    "properties": {
+      "normalWeekToggleField": true
+    }
+  }]
+}

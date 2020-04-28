@@ -1,0 +1,161 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+#svEventsPage {
+  position: relative;
+  height: 100%;
+  margin: 0;
+  font-family: 'Segoe UI Regular WestEuropean', 'Segoe UI', Tahoma, Arial, sans-serif;
+  color: #333333;
+
+  .webPartTitle {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 10px;
+  }
+
+  .webPartBody {
+    position: relative;
+    padding: 10px;
+    font-size: 14px;
+    @include ms-Grid-row;
+  }
+
+  .calendarContainer{
+    @include ms-Grid-col;
+    @include ms-sm12;
+    @include ms-md8;
+    @include ms-lg5;
+    @include ms-xl4;
+    max-width: 350px;
+  }
+
+  .calendar{
+    background: #fff;
+  }
+
+  .calendarHeader{
+    background-color: #375181;
+    color: #fff;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 10px 15px;
+    font-size: 15px;
+  }
+
+  .calendarHeader span{
+    cursor: pointer;
+  }
+
+  .calButtonNext,
+  .calButtonPrev {
+    position: absolute;
+    top: 5%;
+    cursor: pointer;
+    font-size: 22px;
+  }
+
+  .calButtonNext {
+    right: 8px;
+  }
+  .calButtonPrev {
+    left: 8px;
+  }
+
+  .calendarGrid{
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .calendarGrid td{
+    color: #0D600F;
+    border: 0.5px solid #375181;
+    text-align: center;
+    padding: 5px 0;
+  }
+
+  .calendarGrid td.selectable{
+    cursor: pointer;
+  }
+
+  .calendarGrid td.selectable:hover{
+    color: #333;
+    background-color: #459EC7;
+  }
+
+  .calendarGrid td.selected{
+    background-color: #F4EF4E;
+  }
+
+  .eventsContainer{
+    @include ms-Grid-col;
+    @include ms-sm12;
+    @include ms-lg7;
+    @include ms-xl8;
+    text-align: justify;
+  }
+
+  .eventsHeader{
+    color: #459EC7;
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .topSeparator{
+    border: 1px solid #375181;
+    margin: 6px 1px 15px;
+  }
+
+  .midSeparator{
+    border: 0.5px solid #333;
+    margin: 10px 1px 15px;
+  }
+
+  .singleEvent{
+    background: #fff;
+  }
+
+  .eventDate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: bold;
+    margin: 5px 0px 3px;
+  }
+
+  .eventTitle, .eventDescription {
+    text-overflow: ellipsis;
+    overflow: hidden;    
+    margin-bottom: 3px;
+  }
+
+  .eventTitle {
+    white-space: nowrap;
+  }
+
+  .eventDescription {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+    font-size: 14px;
+  }
+  
+  .eventTitle a {
+    font-weight: bold;
+    color: #E05A28;
+    text-decoration: none;
+  }
+
+  .eventTitle a:hover{
+    color: #459EC7;
+  }
+
+  .noEvents {
+    font-size: 12.5px;
+    font-style: italic;
+    color: #a0a0a0;
+    padding: 10px;
+  }
+}

@@ -1,0 +1,52 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.errorContainer {
+    margin: 0;
+    padding: 10px 30px 20px;
+    background: $ms-color-infoBackground;
+    font-family: 'Segoe UI Regular WestEuropean', 'Segoe UI', Tahoma, Arial, sans-serif;
+    font-size: 14px;
+    color: $ms-color-neutralPrimary;
+
+    .errorTitle{
+        font-size: 20px;
+    }
+
+    .errorMessage {
+        font-size: 14px;
+    }
+    
+    .somethingelse{
+        color: white;
+        background: black;
+        font-size: 10px;
+    }
+
+    .errorButton{
+        text-decoration: none;
+        cursor: pointer;
+        height: 32px;
+        min-width: 80px;
+        background-color: $ms-color-themePrimary;
+        border-color: $ms-color-themePrimary;
+        color: $ms-color-white;
+        outline: transparent;
+        position: relative;
+        font-size: $ms-font-size-m;
+        font-weight: $ms-font-weight-regular;
+        border-width: 0;
+        text-align: center;
+        display: inline-block;
+        padding: 0 16px;
+        margin-top: 10px;
+        span{
+            font-weight: $ms-font-weight-semibold;
+            font-size: $ms-font-size-m;
+            height: 32px;
+            line-height: 32px;
+            margin: 0 4px;
+            vertical-align: top;
+            display: inline-block;
+        }
+    }
+}

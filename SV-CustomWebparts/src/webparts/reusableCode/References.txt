@@ -1,0 +1,15 @@
+var today = new Date();
+
+/_api/Web/Lists/GetByTitle('Agenda')/Items?$filter=EventDate ge '"+today.toISOString()+"'&$top=3
+
+ge datetime'" + today.toISOString() + "'
+
+/_api/web/lists/getbytitle('Students')/items?$select=Title,ZIP&$filter=((ZIP eq 12345) or (ZIP eq 22222))
+
+items?$select=Title,ZIP&$filter=ZIP eq 12345 or ZIP eq 22222
+
+function addDays(date, days) {
+  const copy = new Date(Number(date))
+  copy.setDate(date.getDate() + days)
+  return copy
+}

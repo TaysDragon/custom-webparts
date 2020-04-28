@@ -1,0 +1,86 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+#svEventsCarousel {
+  position: relative;
+  height: 100%;
+  margin: 0;
+  font-family: 'Segoe UI Regular WestEuropean', 'Segoe UI', Tahoma, Arial, sans-serif;
+  color: #333333;
+  
+
+  .webPartTitle {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 10px;
+  }
+
+  .webPartBody {
+    position: relative;
+    padding: 15px 25px;
+    font-size: 14px;
+    background: #fff;
+  }
+
+  .swiperContainer {
+    width: 100%;
+    height: 100%;
+  }
+  .swiperSlide {
+    font-size: 14px;
+  }
+  .swiperButtonNext {
+    right: -15px;
+  }
+  .swiperButtonPrev {
+    left: -15px;
+  }
+
+  .swiperButtonNext:after, .swiperButtonPrev:after {
+    color: #0D600F;
+    font-size: 20px;
+  }
+
+  .eventDate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: bold;
+    margin: 5px 5px 3px;
+  }
+
+  .eventTitle, .eventDescription {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    margin: 0px 5px 3px;
+  }
+  .eventTitle {
+    -webkit-line-clamp: 2;
+  }
+
+  .eventDescription {
+    -webkit-line-clamp: 12;
+    font-size: 14px;
+  }
+
+  .eventTitle a {
+    font-weight: bold;
+    color: #E05A28;
+    text-decoration: none;
+  }
+
+  .viewMoreLink {
+    color: #0D600F;
+    text-decoration: none;
+  }
+
+  .viewMoreDiv {
+    text-align: right;
+  }
+
+  .eventTitle a:hover,
+  .viewMoreDiv a:hover{
+    color: #459EC7;
+  }
+}

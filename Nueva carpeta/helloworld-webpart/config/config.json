@@ -1,0 +1,50 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "hello-world-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/helloWorld/HelloWorldWebPart.js",
+          "manifest": "./src/webparts/helloWorld/HelloWorldWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "jquery": {
+      "path":  "https://code.jquery.com/jquery-3.4.1.js",      
+      "globalName":  "jQuery"      
+      },      
+      "jquery-ui": {
+        "path":"https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+        "globalName": "jqueryuy"}
+      ,      
+      "MyScript": {      
+      "path":  "./src/HelperJS/swiper.js",      
+      "globalName":  "MyScript"       
+      },
+      "SwiperMin": {      
+        "path":  "./src/HelperJS/swiper.min.js",      
+        "globalName": "SwiperMin"       
+      },
+      "swiper": {      
+        "path":  "https://unpkg.com/swiper/js/swiper.js",      
+        "globalName": "swiper"       
+      },
+      "test":{
+        "path": "./src/HelperJS/Test.js",
+        "globalName": "test"
+      },
+      "bootstrap": {
+        "path": "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css",
+        "globalName": "bootstrap",
+        "globalDependencies": ["jquery"]
+      }
+  },
+  "localizedResources": {
+    "HelloWorldWebPartStrings": "lib/webparts/helloWorld/loc/{locale}.js"
+  }
+}
+
+

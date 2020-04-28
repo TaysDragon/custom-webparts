@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "news-gallery-client-side-solution",
+    "id": "9ca8eb3a-2886-443d-9b9f-bfe34f3ae8bd",
+    "version": "1.0.0.3",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/news-gallery.sppkg"
+  }
+}

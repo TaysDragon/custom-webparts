@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:base="https://taysdragon.sharepoint.com/sites/SPFXProject/_api/" xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml">
+    <id>597e94b4-5b3b-4090-9543-97e81affdcfd</id>
+    <title />
+    <updated>2020-02-03T03:06:57Z</updated>
+    <entry m:etag="&quot;1&quot;">
+        <id>771cd5c8-a7ce-4a03-a522-dcf4d7c38f80</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(1)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">1</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">1</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 1 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-01-29T03:57:33Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T03:57:33Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">fa9518b9-14c4-4c1e-b674-8d7984aab94f</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location>Houston, Texas, United States</d:Location>
+                <d:Geolocation m:type="SP.FieldGeolocationValue">
+                    <d:Altitude m:type="Edm.Double">0</d:Altitude>
+                    <d:Latitude m:type="Edm.Double">29.7606</d:Latitude>
+                    <d:Longitude m:type="Edm.Double">-95.3697</d:Longitude>
+                    <d:Measure m:type="Edm.Double">0</d:Measure>
+                </d:Geolocation>
+                <d:EventDate m:type="Edm.DateTime">2019-12-10T22:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2019-12-10T23:00:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">false</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:type="Collection(Edm.Int32)">
+                    <d:element>12</d:element>
+                    <d:element>10</d:element>
+                    <d:element>7</d:element>
+                </d:ParticipantsPickerId>
+                <d:ParticipantsPickerStringId m:type="Collection(Edm.String)">
+                    <d:element>12</d:element>
+                    <d:element>10</d:element>
+                    <d:element>7</d:element>
+                </d:ParticipantsPickerStringId>
+                <d:Category>Meeting</d:Category>
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:type="SP.FieldUrlValue">
+                    <d:Description>/sites/SPFXProject/SiteAssets/SitePages/Event/30324-Town-hall-meeting---Wikipedia.jpeg?X=NaN&amp;Y=NaN&amp;Id=b51cb18e-1b74-4854-a1dc-d5460bb1ddf7&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Description>
+                    <d:Url>https://taysdragon.sharepoint.com/sites/SPFXProject/SiteAssets/SitePages/Event/30324-Town-hall-meeting---Wikipedia.jpeg?X=NaN&amp;Y=NaN&amp;Id=b51cb18e-1b74-4854-a1dc-d5460bb1ddf7&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Url>
+                </d:BannerUrl>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;2&quot;">
+        <id>e05c6c27-e766-40ee-8208-936da02db3ee</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(2)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">2</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">2</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 2 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-01-29T03:59:49Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T03:59:18Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">0eef214b-4149-473e-ae06-b5e26a560bae</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location>New York, New York, United States</d:Location>
+                <d:Geolocation m:type="SP.FieldGeolocationValue">
+                    <d:Altitude m:type="Edm.Double">0</d:Altitude>
+                    <d:Latitude m:type="Edm.Double">40.7146</d:Latitude>
+                    <d:Longitude m:type="Edm.Double">-74.0071</d:Longitude>
+                    <d:Measure m:type="Edm.Double">0</d:Measure>
+                </d:Geolocation>
+                <d:EventDate m:type="Edm.DateTime">2019-12-17T00:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2019-12-17T23:59:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">true</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:type="Collection(Edm.Int32)">
+                    <d:element>7</d:element>
+                </d:ParticipantsPickerId>
+                <d:ParticipantsPickerStringId m:type="Collection(Edm.String)">
+                    <d:element>7</d:element>
+                </d:ParticipantsPickerStringId>
+                <d:Category>Meeting</d:Category>
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:type="SP.FieldUrlValue">
+                    <d:Description>https://taysdragon.sharepoint.com/sites/SPFXProject/SiteAssets/SitePages/Event/34089-Conferences---Arborosa.jpeg?X=50&amp;Y=50&amp;Id=69aebd04-f41d-496e-bbdd-6d38c4cb10a8&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Description>
+                    <d:Url>https://taysdragon.sharepoint.com/sites/SPFXProject/SiteAssets/SitePages/Event/34089-Conferences---Arborosa.jpeg?X=50&amp;Y=50&amp;Id=69aebd04-f41d-496e-bbdd-6d38c4cb10a8&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Url>
+                </d:BannerUrl>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;1&quot;">
+        <id>0d7e0473-dae0-429d-ac46-179214355e78</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(3)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">3</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">3</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 3 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-01-29T04:01:42Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T04:01:42Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">c4463c51-8a8d-48cc-ab24-befd40a13b20</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location m:null="true" />
+                <d:Geolocation m:null="true" />
+                <d:EventDate m:type="Edm.DateTime">2020-01-01T00:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2020-01-01T23:59:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">true</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:null="true" />
+                <d:ParticipantsPickerStringId m:null="true" />
+                <d:Category>Holiday</d:Category>
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:type="SP.FieldUrlValue">
+                    <d:Description>/sites/SPFXProject/SiteAssets/SitePages/Event/69896-Technopolis--My-top-ten-predictions-for-the-New-Year.jpeg?X=NaN&amp;Y=NaN&amp;Id=83477809-8144-45ef-a119-5b15c64eb7dc&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Description>
+                    <d:Url>https://taysdragon.sharepoint.com/sites/SPFXProject/SiteAssets/SitePages/Event/69896-Technopolis--My-top-ten-predictions-for-the-New-Year.jpeg?X=NaN&amp;Y=NaN&amp;Id=83477809-8144-45ef-a119-5b15c64eb7dc&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Url>
+                </d:BannerUrl>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;1&quot;">
+        <id>20a4dab6-e021-4369-9c22-c86b13fb82d6</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(4)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">4</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">4</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 4 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-01-29T04:02:42Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T04:02:42Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">3c7da050-053e-4026-9773-989a587e6369</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location m:null="true" />
+                <d:Geolocation m:null="true" />
+                <d:EventDate m:type="Edm.DateTime">2020-01-14T16:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2020-01-15T19:00:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">false</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:type="Collection(Edm.Int32)">
+                    <d:element>12</d:element>
+                </d:ParticipantsPickerId>
+                <d:ParticipantsPickerStringId m:type="Collection(Edm.String)">
+                    <d:element>12</d:element>
+                </d:ParticipantsPickerStringId>
+                <d:Category m:null="true" />
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:null="true" />
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;1&quot;">
+        <id>87e6c6cc-ddb9-4e99-bfc0-dd9c6214b667</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(5)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">5</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">5</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 5 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-01-29T04:04:57Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T04:04:57Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">8a41d5a6-ed30-4b06-a69e-c4bc8fa0a04e</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location>Harvard University, 17 Oxford St, Cambridge, MA 02138, United States</d:Location>
+                <d:Geolocation m:type="SP.FieldGeolocationValue">
+                    <d:Altitude m:type="Edm.Double">0</d:Altitude>
+                    <d:Latitude m:type="Edm.Double">42.3764237516018</d:Latitude>
+                    <d:Longitude m:type="Edm.Double">-71.1158106046277</d:Longitude>
+                    <d:Measure m:type="Edm.Double">0</d:Measure>
+                </d:Geolocation>
+                <d:EventDate m:type="Edm.DateTime">2020-01-27T19:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2020-01-31T22:00:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">false</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:type="Collection(Edm.Int32)">
+                    <d:element>12</d:element>
+                    <d:element>7</d:element>
+                </d:ParticipantsPickerId>
+                <d:ParticipantsPickerStringId m:type="Collection(Edm.String)">
+                    <d:element>12</d:element>
+                    <d:element>7</d:element>
+                </d:ParticipantsPickerStringId>
+                <d:Category>Work hours</d:Category>
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:type="SP.FieldUrlValue">
+                    <d:Description>/sites/SPFXProject/SiteAssets/SitePages/Event/87760-Business-education-can-revive-itself-by-building-links----.jpeg?X=45&amp;Y=22&amp;Id=a93ba8a9-7820-45e4-91db-24c1e45ddea6&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Description>
+                    <d:Url>https://taysdragon.sharepoint.com/sites/SPFXProject/SiteAssets/SitePages/Event/87760-Business-education-can-revive-itself-by-building-links----.jpeg?X=45&amp;Y=22&amp;Id=a93ba8a9-7820-45e4-91db-24c1e45ddea6&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Url>
+                </d:BannerUrl>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;1&quot;">
+        <id>65474928-266d-49a2-84a5-c212bf87f2db</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(6)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">6</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">6</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 6 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-01-29T04:06:02Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T04:06:02Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">4bfbe55b-e1eb-42fa-ab40-c8e82bdd3c51</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location m:null="true" />
+                <d:Geolocation m:null="true" />
+                <d:EventDate m:type="Edm.DateTime">2020-01-29T00:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2020-01-29T23:59:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">true</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:null="true" />
+                <d:ParticipantsPickerStringId m:null="true" />
+                <d:Category>Business</d:Category>
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:null="true" />
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;2&quot;">
+        <id>00688f87-0aed-4f16-9e69-1595dbca2ede</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(7)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">7</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">7</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 7 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-02-03T03:02:31Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T04:06:38Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">83d496df-11ce-4d21-ae71-6a3f08d33bde</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location m:null="true" />
+                <d:Geolocation m:null="true" />
+                <d:EventDate m:type="Edm.DateTime">2020-02-04T02:30:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2020-02-04T05:30:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">false</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:null="true" />
+                <d:ParticipantsPickerStringId m:null="true" />
+                <d:Category m:null="true" />
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:null="true" />
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;2&quot;">
+        <id>c6fb7931-25e9-4b09-adbf-224860cff378</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(8)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">8</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">8</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 8 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-02-03T03:03:14Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T04:07:55Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">2305140f-1e6d-482b-8272-42c45c267259</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location m:null="true" />
+                <d:Geolocation m:null="true" />
+                <d:EventDate m:type="Edm.DateTime">2020-02-07T00:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2020-02-07T23:59:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">true</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:type="Collection(Edm.Int32)">
+                    <d:element>12</d:element>
+                </d:ParticipantsPickerId>
+                <d:ParticipantsPickerStringId m:type="Collection(Edm.String)">
+                    <d:element>12</d:element>
+                </d:ParticipantsPickerStringId>
+                <d:Category>Gifts</d:Category>
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:type="SP.FieldUrlValue">
+                    <d:Description>https://taysdragon.sharepoint.com/sites/SPFXProject/SiteAssets/SitePages/Event/90268-Travel-the-world-monuments-concept---SalFalko---Flickr.jpeg?X=50&amp;Y=50&amp;Id=8b74d284-e038-41e0-b954-3222d1fa591a&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Description>
+                    <d:Url>https://taysdragon.sharepoint.com/sites/SPFXProject/SiteAssets/SitePages/Event/90268-Travel-the-world-monuments-concept---SalFalko---Flickr.jpeg?X=50&amp;Y=50&amp;Id=8b74d284-e038-41e0-b954-3222d1fa591a&amp;listId=c11066f8-57e1-4bfc-b1fa-8380fffad09b</d:Url>
+                </d:BannerUrl>
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;2&quot;">
+        <id>3c58f1a0-1c9f-44ab-aaf6-5a27dfc74a27</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(9)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">9</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">9</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 9 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-02-03T03:04:05Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T04:08:40Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">02381d36-fa7a-4a77-9ba6-789d791e3f2a</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location m:null="true" />
+                <d:Geolocation m:null="true" />
+                <d:EventDate m:type="Edm.DateTime">2020-02-17T18:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2020-02-17T22:00:00Z</d:EndDate>
+                <d:Description m:null="true" />
+                <d:fAllDayEvent m:type="Edm.Boolean">false</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:null="true" />
+                <d:ParticipantsPickerStringId m:null="true" />
+                <d:Category m:null="true" />
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:null="true" />
+            </m:properties>
+        </content>
+    </entry>
+    <entry m:etag="&quot;2&quot;">
+        <id>c45dc821-0e41-4f3f-8fb6-f70863fdd9f7</id>
+        <category term="SP.Data.EventsListItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme" />
+        <link rel="edit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/FirstUniqueAncestorSecurableObject" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/RoleAssignments" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/AttachmentFiles" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/ContentType" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/GetDlpPolicyTip" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/FieldValuesAsHtml" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/FieldValuesAsText" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/FieldValuesForEdit" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/File" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/Folder" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LikedByInformation" type="application/atom+xml;type=entry" title="LikedByInformation" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/LikedByInformation" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/ParentList" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/Properties" />
+        <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'3ddd3985-d794-4dde-a4a6-171f9ecc30be')/Items(10)/Versions" />
+        <title />
+        <updated>2020-02-03T03:06:57Z</updated>
+        <author>
+            <name />
+        </author>
+        <content type="application/xml">
+            <m:properties>
+                <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+                <d:Id m:type="Edm.Int32">10</d:Id>
+                <d:ServerRedirectedEmbedUri m:null="true" />
+                <d:ServerRedirectedEmbedUrl></d:ServerRedirectedEmbedUrl>
+                <d:ID m:type="Edm.Int32">10</d:ID>
+                <d:ContentTypeId>0x010200F10851156379F742AD65480A649CD73B</d:ContentTypeId>
+                <d:Title>Event 10 Test</d:Title>
+                <d:Modified m:type="Edm.DateTime">2020-02-03T03:06:43Z</d:Modified>
+                <d:Created m:type="Edm.DateTime">2020-01-29T04:09:21Z</d:Created>
+                <d:AuthorId m:type="Edm.Int32">7</d:AuthorId>
+                <d:EditorId m:type="Edm.Int32">7</d:EditorId>
+                <d:OData__UIVersionString>1.0</d:OData__UIVersionString>
+                <d:Attachments m:type="Edm.Boolean">false</d:Attachments>
+                <d:GUID m:type="Edm.Guid">efb7d57c-bd49-4579-a246-a9d309ed9121</d:GUID>
+                <d:ComplianceAssetId m:null="true" />
+                <d:Location m:null="true" />
+                <d:Geolocation m:null="true" />
+                <d:EventDate m:type="Edm.DateTime">2020-03-02T00:00:00Z</d:EventDate>
+                <d:EndDate m:type="Edm.DateTime">2020-03-03T23:59:00Z</d:EndDate>
+                <d:Description xml:space="preserve">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</d:Description>
+                <d:fAllDayEvent m:type="Edm.Boolean">true</d:fAllDayEvent>
+                <d:fRecurrence m:type="Edm.Boolean">false</d:fRecurrence>
+                <d:ParticipantsPickerId m:type="Collection(Edm.Int32)">
+                    <d:element>7</d:element>
+                </d:ParticipantsPickerId>
+                <d:ParticipantsPickerStringId m:type="Collection(Edm.String)">
+                    <d:element>7</d:element>
+                </d:ParticipantsPickerStringId>
+                <d:Category m:null="true" />
+                <d:FreeBusy m:null="true" />
+                <d:Overbook m:null="true" />
+                <d:BannerUrl m:null="true" />
+            </m:properties>
+        </content>
+    </entry>
+</feed>

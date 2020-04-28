@@ -1,0 +1,58 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sv-news-carousel-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/svNewsCarousel/SvNewsCarouselWebPart.js",
+          "manifest": "./src/webparts/svNewsCarousel/SvNewsCarouselWebPart.manifest.json"
+        }
+      ]
+    },
+    "sv-events-carousel-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/svEventsCarousel/SvEventsCarouselWebPart.js",
+          "manifest": "./src/webparts/svEventsCarousel/SvEventsCarouselWebPart.manifest.json"
+        }
+      ]
+    },
+    "sv-quick-links-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/svQuickLinks/SvQuickLinksWebPart.js",
+          "manifest": "./src/webparts/svQuickLinks/SvQuickLinksWebPart.manifest.json"
+        }
+      ]
+    },
+    "sv-events-page-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/svEventsPage/SvEventsPageWebPart.js",
+          "manifest": "./src/webparts/svEventsPage/SvEventsPageWebPart.manifest.json"
+        }
+      ]
+    },
+    "sv-announcements-carousel-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/svAnnouncementsCarousel/SvAnnouncementsCarouselWebPart.js",
+          "manifest": "./src/webparts/svAnnouncementsCarousel/SvAnnouncementsCarouselWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "jquery": "node_modules/jquery/dist/jquery.min.js",
+    "jqueryui": "node_modules/jqueryui/jquery-ui.min.js"
+  },
+  "localizedResources": {
+    "SvNewsCarouselWebPartStrings": "lib/webparts/svNewsCarousel/loc/{locale}.js",
+    "PropertyControlStrings": "node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js",
+    "SvEventsCarouselWebPartStrings": "lib/webparts/svEventsCarousel/loc/{locale}.js",
+    "SvQuickLinksWebPartStrings": "lib/webparts/svQuickLinks/loc/{locale}.js",
+    "SvEventsPageWebPartStrings": "lib/webparts/svEventsPage/loc/{locale}.js",
+    "SvAnnouncementsCarouselWebPartStrings": "lib/webparts/svAnnouncementsCarousel/loc/{locale}.js"
+  }
+}
